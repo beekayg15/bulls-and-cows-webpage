@@ -1,5 +1,5 @@
 # Bulls and Cows WebPage
-Page Deployment Link: https://beekayg15.github.io/bulls-and-cows-webpage/
+Page Deployment Link: https://bulls-and-cows-webpage.beekayg15.com/
 ***
 An **interactive webpage** bringing to life, the digital version of the primitive **Bulls and Cows game**, created using `HTML`, `CSS` and `JavaScript`.
 
